@@ -65,7 +65,7 @@ public class TestCollection2 {
 		
 		String[] strArray = new String[list6.size()];
 		strArray =  list6.toArray(strArray);
-		System.out.println(strArray);
+		
 		
 		
 		
