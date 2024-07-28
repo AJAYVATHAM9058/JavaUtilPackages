@@ -1,6 +1,5 @@
+package Arrays;
 //Java Program to rotate the array elements 
-
-package ArrayList.Arrays;
 
 import java.util.*;
 public class ArrayRotation {
